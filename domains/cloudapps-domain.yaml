@@ -4,9 +4,9 @@ metadata:
   name: cloud-apps
   description: Everything related to Cloud Applications
   links:
-    - url: http://example.com/domain/cloud-apps/
+    - url: http://tap.frankcarta.com/domain/cloud-apps/
       title: Domain Readme
-    - url: http://example.com/domains/cloud-apps/dashboard
+    - url: http://tap.frankcarta.com/domains/cloud-apps/dashboard
       title: Cloud Apps Dashboard
       icon: dashboard
   annotations:

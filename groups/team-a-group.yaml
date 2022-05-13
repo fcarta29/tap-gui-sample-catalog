@@ -7,8 +7,8 @@ spec:
   type: team
   profile:
     # Intentional no displayName for testing
-    email: team-a@example.com
-    picture: https://avatars.dicebear.com/api/identicon/team-a@example.com.svg?background=%23fff&margin=25
+    email: team-a@tap.frankcarta.com
+    picture: https://avatars.dicebear.com/api/identicon/team-a@tap.frankcarta.com.svg?background=%23fff&margin=25
   parent: development
   children: []
 
@@ -20,6 +20,6 @@ metadata:
 spec:
   profile:
     displayName: Guest User
-    email: guest1@example.com
-    picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
+    email: guest1@tap.frankcarta.com
+    picture: https://avatars.dicebear.com/api/avataaars/guest@tap.frankcarta.com.svg?background=%23fff
   memberOf: [team-a]
